@@ -9,5 +9,4 @@ public class YouTubeToolsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(YouTubeToolsApplication.class, args);
 	}
-
 }
